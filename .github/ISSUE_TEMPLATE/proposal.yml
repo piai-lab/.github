@@ -1,0 +1,44 @@
+name: Project or feature proposal
+description: Propose a scoped capability, research direction, or organization project
+title: "[Proposal]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: State the scientific or infrastructure problem without assuming a solution.
+    validations:
+      required: true
+  - type: textarea
+    id: users
+    attributes:
+      label: Intended users and decisions
+      description: Who needs this, and what will it help them decide or do?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Existing evidence and alternatives
+      description: Link primary sources, related projects, baselines, and known failed approaches.
+    validations:
+      required: true
+  - type: textarea
+    id: validation
+    attributes:
+      label: Validation plan
+      description: Define observable success, comparison baselines, and independent checks.
+    validations:
+      required: true
+  - type: textarea
+    id: ownership
+    attributes:
+      label: Ownership and maintenance
+      description: Who can maintain this, and what ongoing resources does it require?
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks and non-goals
+      description: Include scientific, security, privacy, licensing, and scope risks.

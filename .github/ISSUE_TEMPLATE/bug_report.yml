@@ -1,0 +1,39 @@
+name: Bug report
+description: Report a reproducible software or documentation defect
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: Do not report vulnerabilities or sensitive data here. Use SECURITY.md instead.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Provide the smallest reproducible example, commands, and inputs.
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include version, commit, operating system, runtime, and relevant dependencies.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Add logs, traces, screenshots, or output with sensitive information removed.
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact and boundaries
+      description: Who is affected, and what conclusions should not be drawn from this report?
