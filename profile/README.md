@@ -22,33 +22,27 @@
 
 <table>
   <tr>
-    <td width="7%"><strong>01</strong></td>
-    <td width="24%"><strong>Data & methods</strong></td>
+    <td width="27%"><strong>01 · Data & methods</strong></td>
     <td><strong>OmniData · OmniEngine</strong><br>Agent-native scientific data and reusable methods with provenance, applicability conditions, validation, resource boundaries, and explicit failure returns.</td>
   </tr>
   <tr>
-    <td><strong>02</strong></td>
-    <td><strong>Evidence & intelligence</strong></td>
+    <td><strong>02 · Evidence & intelligence</strong></td>
     <td><strong>OmniScholar · OmniPatent · AI4SNews</strong><br>Literature, patents, full text, figures, citations, research signals, retrieval, and claim-to-evidence relationships.</td>
   </tr>
   <tr>
-    <td><strong>03</strong></td>
-    <td><strong>Continuous research</strong></td>
+    <td><strong>03 · Continuous research</strong></td>
     <td><strong>OmniMind · OmniHarness</strong><br>Research state, agent coordination, tools, permissions, observability, verification, recovery, and handoff across long-running scientific work.</td>
   </tr>
   <tr>
-    <td><strong>04</strong></td>
-    <td><strong>Scientific artifacts</strong></td>
+    <td><strong>04 · Scientific artifacts</strong></td>
     <td><strong>OmniPlotter · OmniSketch · OmniSlide · OmniOffice</strong><br>Scientific plots, editable illustrations, presentations, documents, spreadsheets, and reliable file operations through OmniDoc, OmniSheet, and PPT Skill.</td>
   </tr>
   <tr>
-    <td><strong>05</strong></td>
-    <td><strong>Question formation</strong></td>
+    <td><strong>05 · Question formation</strong></td>
     <td><strong>OmniSage</strong><br>Testable scientific questions formed from evidence gaps, competing explanations, and explicit validation paths.</td>
   </tr>
   <tr>
-    <td><strong>06</strong></td>
-    <td><strong>Domain research</strong></td>
+    <td><strong>06 · Domain research</strong></td>
     <td><strong>Drug discovery</strong><br>A demanding biomedical setting connecting domain data, scientific methods, agent workflows, evidence tracing, and reporting.</td>
   </tr>
 </table>
@@ -59,13 +53,11 @@ These directions have different scientific jobs and are intended to remain indep
 
 OmniMind is one environment in which these capabilities are intended to converge around a continuing research question. It does not own them or make itself their exclusive gateway; the underlying capabilities are intended to remain reusable by other agents and research platforms through open, explicit interfaces.
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><strong>OPEN</strong><br><br><strong>Capabilities are not locked to one agent.</strong><br><br>They may be coordinated through OmniMind or reused by other agents and research platforms.</td>
-    <td width="33%" valign="top"><strong>VERIFIABLE</strong><br><br><strong>Evidence travels with the work.</strong><br><br>Sources, versions, permissions, environments, limitations, and failures should remain inspectable.</td>
-    <td width="33%" valign="top"><strong>RESEARCHER LED</strong><br><br><strong>Scientists retain the final judgment.</strong><br><br>Direction, interpretation, validation, and release remain human responsibilities.</td>
-  </tr>
-</table>
+**OPEN — Capabilities are not locked to one agent.** They may be coordinated through OmniMind or reused by other agents and research platforms.
+
+**VERIFIABLE — Evidence travels with the work.** Sources, versions, permissions, environments, limitations, and failures should remain inspectable.
+
+**RESEARCHER LED — Scientists retain the final judgment.** Direction, interpretation, validation, and release remain human responsibilities.
 
 **Evaluation and reproducibility apply across the system:** benchmarks, provenance, failure analysis, recovery, reproducible environments, and validation in real research settings.
 
