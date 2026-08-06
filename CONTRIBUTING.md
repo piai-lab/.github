@@ -9,6 +9,20 @@ Thank you for improving πAI Lab projects. Contributions may include code, docum
 3. Open an issue before substantial work, interface changes, new dependencies, data redistribution, or claims that affect scientific interpretation.
 4. Keep changes focused and explain how they were validated.
 
+For a defect in one capability, use that repository's issue tracker. For work that crosses data, methods, evidence, agent execution, or scientific artifacts, first identify the research workflow, affected repositories, interface owner, and compatibility boundary. If no public repository clearly owns the problem, use the organization contact in [`SUPPORT.md`](SUPPORT.md).
+
+## Cross-capability contributions
+
+New capabilities and material interface changes should explain:
+
+- the scientific task and the researcher or agent that will consume the capability;
+- why an existing capability or interface is insufficient;
+- inputs, outputs, provenance, permissions, validation, and failure behavior;
+- compatibility, migration, rollback, and maintenance responsibility;
+- whether the capability is independently reusable or tied to a specific workflow.
+
+Do not present planned interoperability as an existing integration. A new `Omni` name or a connection to OmniMind requires organization-level review of scope, evidence, naming, and maintenance; it is not established by code reuse alone.
+
 ## Scientific and technical evidence
 
 Contributions must distinguish:
@@ -36,4 +50,3 @@ A pull request should state:
 - any remaining limitations.
 
 Maintainers may request changes or decline work that lacks evidence, duplicates the roadmap, creates unsustainable maintenance, or exceeds the project's scope.
-
