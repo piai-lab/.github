@@ -64,7 +64,7 @@ Drug discovery is intended to provide a demanding biomedical setting in which th
 
 ## Leadership
 
-**[Zaoqu Liu (刘灶渠)](https://github.com/Zaoqu-Liu)** — Scientific Lead
+**[Zaoqu Liu (刘灶渠)](https://github.com/Zaoqu-Liu)** — Lead
 
 ## Collaborate
 
