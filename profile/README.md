@@ -2,7 +2,7 @@
 
 **Open intelligence infrastructure for scientific discovery.**
 
-πAI Lab is a public research and open-technology initiative based at 广东智慧医学国际研究院 in Guangzhou, the international executive headquarters of the [π-HuB program](https://kjj.gz.gov.cn/xwlb/yw/content/post_10776038.html). We start from real biomedical research and build scientific capabilities that can remain useful across models, agents, projects, and disciplines.
+πAI Lab is a public research and open-technology initiative based at 广东智慧医学国际研究院 in Guangzhou. We start from real biomedical research and build scientific capabilities that can remain useful across models, agents, projects, and disciplines.
 
 Our work spans the research process: finding questions worth investigating, grounding them in evidence, accessing scientific data, invoking methods under explicit conditions, sustaining long-running work, and creating scientific outputs that remain inspectable and editable. We develop these as distinct but composable capabilities—not as a closed, all-in-one agent.
 
@@ -80,7 +80,7 @@ Read our [governance](../GOVERNANCE.md), [project policy](../PROJECT_POLICY.md),
 
 **πAI Lab · 面向科学发现的开放智能基础设施**
 
-πAI Lab 是设在广东智慧医学国际研究院的公共研究与开放技术计划；该研究院是 [π-HuB 计划国际执行总部](https://kjj.gz.gov.cn/xwlb/yw/content/post_10776038.html)。我们从真实生物医学研究出发，计划建设可以跨模型、跨 Agent、跨课题持续复用的开放科学能力，而不是一个封闭的端到端科研智能体。
+πAI Lab 是设在广东智慧医学国际研究院的公共研究与开放技术计划。我们从真实生物医学研究出发，计划建设可以跨模型、跨 Agent、跨课题持续复用的开放科学能力，而不是一个封闭的端到端科研智能体。
 
 我们计划围绕完整科研过程建设以下方向：OmniData 与 OmniEngine 面向可追溯的数据和可验证的方法；OmniScholar、OmniPatent 与 AI4SNews 面向文献、专利、证据和科研动态；OmniHarness 与 OmniMind 面向可靠执行和持续研究；OmniPlotter、OmniSketch、OmniSlide 与 OmniOffice 面向绘图、科学示意图、演示文稿、文档和表格等可编辑科研产物；OmniSage 研究值得验证的科学问题如何形成；药物发现承担真实生物医学领域验证。评测、溯源、失败分析与可复现性贯穿所有方向。
 
