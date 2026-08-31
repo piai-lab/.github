@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">πAI Lab</title>
+  <desc id="desc">A precision-built pi mark with two mirrored pillars and a split crown.</desc>
+  <path
+    fill="#F2F7FB"
+    d="M142 90H302L266 164H85V147C85 115.5 110.5 90 142 90Z"
+  />
+  <path
+    fill="#79AED9"
+    d="M325 90H400C417.5 90 428.5 104.5 422 119L398 164H286L325 90Z"
+  />
+  <path
+    id="pillar"
+    fill="#F2F7FB"
+    d="M144 174H209V364C209 386.1 191.1 404 169 404H93V338H120C133.3 338 144 327.3 144 314V174Z"
+  />
+  <use href="#pillar" transform="translate(512 0) scale(-1 1)" />
+</svg>
