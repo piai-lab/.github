@@ -8,7 +8,7 @@
 
 <br>
 
-**OPEN RESEARCH · EVIDENCE FIRST · REPRODUCIBLE · RESEARCHER LED**
+**Open research · Evidence first · Reproducible · Researcher led**
 
 </div>
 
@@ -25,13 +25,13 @@
 
 ## How we work
 
-**OPEN RESEARCH — Share what can be responsibly shared.** Public work should have a clear scientific purpose, accountable maintainers, explicit licensing, and a credible maintenance path.
+**Open research — Share what can be responsibly shared.** Public work should have a clear scientific purpose, accountable maintainers, explicit licensing, and a credible maintenance path.
 
-**EVIDENCE FIRST — Keep claims connected to their basis.** Sources, versions, assumptions, limitations, environments, and failures should remain inspectable.
+**Evidence first — Keep claims connected to their basis.** Sources, versions, assumptions, limitations, environments, and failures should remain inspectable.
 
-**REPRODUCIBLE — Treat evaluation as part of the research.** We value documented methods, transparent benchmarks, failure analysis, and validation in real settings.
+**Reproducible — Treat evaluation as part of the research.** We value documented methods, transparent benchmarks, failure analysis, and validation in real settings.
 
-**RESEARCHER LED — Scientists retain final judgment.** Research direction, interpretation, validation, and release remain human responsibilities.
+**Researcher led — Scientists retain final judgment.** Research direction, interpretation, validation, and release remain human responsibilities.
 
 Unless a repository states otherwise, public work in this organization should be understood as research-stage rather than production, clinical, legal, or regulatory validation.
 

@@ -10,11 +10,11 @@
   <rect width="1200" height="430" fill="url(#grid)" opacity="0.72"/>
   <path d="M0 0H1200V430H0Z" fill="none" stroke="#394a59"/>
 
-  <text x="48" y="42" fill="#79aed9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">πAI LAB · AI FOR SCIENTIFIC DISCOVERY</text>
-  <text x="1152" y="42" fill="#8b9ba9" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" letter-spacing="2">GUANGZHOU · OPEN RESEARCH</text>
+  <text x="48" y="42" fill="#79aed9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4">πAI Lab · AI for scientific discovery</text>
+  <text x="1152" y="42" fill="#8b9ba9" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" letter-spacing="1">Guangzhou · Open research</text>
 
   <text x="46" y="228" fill="#79aed9" font-family="Georgia, 'Times New Roman', serif" font-size="118" font-style="italic">π</text>
-  <text x="130" y="228" fill="#f2f7fb" font-family="Georgia, 'Times New Roman', serif" font-size="104" letter-spacing="-5">AI LAB</text>
+  <text x="130" y="228" fill="#f2f7fb" font-family="Georgia, 'Times New Roman', serif" font-size="104" letter-spacing="-3">AI Lab</text>
   <text x="50" y="271" fill="#9babb8" font-family="Arial, Helvetica, sans-serif" font-size="21">Open, evidence-first research for scientific discovery.</text>
 
   <g transform="translate(825 196)">
@@ -22,8 +22,8 @@
     <circle r="82" fill="none" stroke="#526776" stroke-width="1" stroke-dasharray="4 5"/>
     <path d="M-160 0H160M0-160V160" fill="none" stroke="#607585" stroke-width="1"/>
     <circle r="56" fill="#f2f7fb"/>
-    <text y="-5" fill="#13202b" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1.7">SCIENTIFIC</text>
-    <text y="12" fill="#13202b" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="1.7">DISCOVERY</text>
+    <text y="-5" fill="#13202b" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.8">Scientific</text>
+    <text y="12" fill="#13202b" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.8">discovery</text>
     <g fill="#101820" stroke="#526776">
       <rect x="-42" y="-173" width="84" height="26"/>
       <rect x="139" y="-80" width="88" height="26"/>
@@ -32,21 +32,21 @@
       <rect x="-225" y="72" width="98" height="26"/>
       <rect x="-219" y="-80" width="92" height="26"/>
     </g>
-    <g fill="#d9e3eb" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="1.2">
-      <text y="-156">QUESTIONS</text>
-      <text x="183" y="-63">EVIDENCE</text>
-      <text x="177" y="89">DATA</text>
-      <text y="164">METHODS</text>
-      <text x="-176" y="89">EXECUTION</text>
-      <text x="-173" y="-63">ARTIFACTS</text>
+    <g fill="#d9e3eb" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="0.6">
+      <text y="-156">Questions</text>
+      <text x="183" y="-63">Evidence</text>
+      <text x="177" y="89">Data</text>
+      <text y="164">Methods</text>
+      <text x="-176" y="89">Execution</text>
+      <text x="-173" y="-63">Artifacts</text>
     </g>
   </g>
 
   <g transform="translate(48 374)">
     <path d="M0 0H1104M0 38H1104" stroke="#607585"/>
     <g stroke="#334654"><path d="M184 0V38M368 0V38M552 0V38M736 0V38M920 0V38"/></g>
-    <g fill="#91a3b1" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="1.4">
-      <text x="92" y="24">QUESTION</text><text x="276" y="24">EVIDENCE</text><text x="460" y="24">DATA</text><text x="644" y="24">METHOD</text><text x="828" y="24">EXECUTION</text><text x="1012" y="24">VALIDATION</text>
+    <g fill="#91a3b1" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="0.6">
+      <text x="92" y="24">Question</text><text x="276" y="24">Evidence</text><text x="460" y="24">Data</text><text x="644" y="24">Method</text><text x="828" y="24">Execution</text><text x="1012" y="24">Validation</text>
     </g>
   </g>
 </svg>
