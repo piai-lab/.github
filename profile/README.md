@@ -35,9 +35,7 @@
 
 Unless a repository states otherwise, public work in this organization should be understood as research-stage rather than production, clinical, legal, or regulatory validation.
 
-## Leadership & collaboration
-
-**[Zaoqu Liu (刘灶渠)](https://github.com/Zaoqu-Liu)** — Lead
+## Collaboration
 
 We welcome research collaborations around scientific evidence, reliable AI-assisted research, scientific communication, evaluation and reproducibility, biomedical research, and cross-disciplinary transfer.
 
