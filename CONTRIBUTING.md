@@ -21,7 +21,7 @@ New capabilities and material interface changes should explain:
 - compatibility, migration, rollback, and maintenance responsibility;
 - whether the capability is independently reusable or tied to a specific workflow.
 
-Do not present planned interoperability as an existing integration. A new `Omni` name or a connection to OmniMind requires organization-level review of scope, evidence, naming, and maintenance; it is not established by code reuse alone.
+Do not present planned interoperability as an existing integration. Shared naming or a claimed connection to an organization-backed research environment requires organization-level review of scope, evidence, naming, and maintenance; it is not established by code reuse alone.
 
 ## Scientific and technical evidence
 

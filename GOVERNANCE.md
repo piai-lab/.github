@@ -22,7 +22,7 @@ Maintainers may make decisions within their repository, but may not represent pr
 
 πAI Lab projects may address different parts of the research process, including data, methods, evidence, agent systems, scientific artifacts, research intelligence, evaluation, and domain workflows. The scientific lead and affected maintainers coordinate shared contracts, cross-project dependencies, public positioning, and integration decisions.
 
-No project automatically owns another project because it consumes or integrates its capabilities. A capability may be used through OmniMind or another research environment while remaining independently reusable through documented interfaces.
+No project automatically owns another project because it consumes or integrates its capabilities. A capability may be used within one or more research environments while remaining independently reusable through documented interfaces.
 
 ### Scientific stewards
 

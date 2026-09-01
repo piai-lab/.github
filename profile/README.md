@@ -3,73 +3,45 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="πAI Lab — Open intelligence infrastructure for scientific discovery" src="./assets/hero-light.svg" width="100%">
+  <img alt="πAI Lab — AI for scientific discovery" src="./assets/hero-light.svg" width="100%">
 </picture>
 
 <br>
 
-**OPEN RESEARCH · COMPOSABLE CAPABILITIES · EVIDENCE FIRST · RESEARCHER LED**
+**OPEN RESEARCH · EVIDENCE FIRST · REPRODUCIBLE · RESEARCHER LED**
 
 </div>
 
 ## Our position
 
-πAI Lab is a public research and open-technology initiative based at 广东智慧医学国际研究院 in Guangzhou. We build distinct but composable scientific capabilities across the research process—not a closed, all-in-one agent.
+πAI Lab is a public research and open-technology initiative based at 广东智慧医学国际研究院 in Guangzhou. We study how AI can support scientific discovery, with an initial focus on biomedical research. Our work is developed in the open and evaluated in real research settings.
 
-> **Development status:** All directions below are under development. This page describes research scope and intended relationships; it does not imply public release, production readiness, adoption, or scientific, clinical, legal, or regulatory validation.
+## Research focus
 
-## Capability atlas
+- **Scientific evidence:** making literature, patents, data, methods, and claims easier to trace, examine, and reuse.
+- **Reliable research workflows:** improving provenance, evaluation, reproducibility, recovery, and human oversight in AI-assisted research.
+- **Scientific communication:** creating clear, editable, and verifiable research artifacts without separating presentation from evidence.
+- **Biomedical research:** testing ideas against demanding, real-world questions in medicine and life science.
 
-<table>
-  <tr>
-    <td width="27%"><strong>01 · Data & methods</strong></td>
-    <td><strong>OmniData · OmniEngine</strong><br>Agent-native scientific data and reusable methods with provenance, applicability conditions, validation, resource boundaries, and explicit failure returns.</td>
-  </tr>
-  <tr>
-    <td><strong>02 · Evidence & intelligence</strong></td>
-    <td><strong>OmniScholar · OmniPatent · AI4SNews</strong><br>Literature, patents, full text, figures, citations, research signals, retrieval, and claim-to-evidence relationships.</td>
-  </tr>
-  <tr>
-    <td><strong>03 · Continuous research</strong></td>
-    <td><strong>OmniMind · OmniHarness</strong><br>Research state, agent coordination, tools, permissions, observability, verification, recovery, and handoff across long-running scientific work.</td>
-  </tr>
-  <tr>
-    <td><strong>04 · Scientific artifacts</strong></td>
-    <td><strong>OmniPlotter · OmniSketch · OmniSlide · OmniOffice</strong><br>Scientific plots, editable illustrations, presentations, documents, spreadsheets, and reliable file operations through OmniDoc, OmniSheet, and PPT Skill.</td>
-  </tr>
-  <tr>
-    <td><strong>05 · Question formation</strong></td>
-    <td><strong>OmniSage</strong><br>Testable scientific questions formed from evidence gaps, competing explanations, and explicit validation paths.</td>
-  </tr>
-  <tr>
-    <td><strong>06 · Domain research</strong></td>
-    <td><strong>Drug discovery</strong><br>A demanding biomedical setting connecting domain data, scientific methods, agent workflows, evidence tracing, and reporting.</td>
-  </tr>
-</table>
+## How we work
 
-## How the system connects
+**OPEN RESEARCH — Share what can be responsibly shared.** Public work should have a clear scientific purpose, accountable maintainers, explicit licensing, and a credible maintenance path.
 
-These directions have different scientific jobs and are intended to remain independently reusable. Their shared goal is composability: researchers and agents should be able to move across evidence, data, methods, execution, and scientific artifacts without silently losing provenance, conditions, state, or failure information.
+**EVIDENCE FIRST — Keep claims connected to their basis.** Sources, versions, assumptions, limitations, environments, and failures should remain inspectable.
 
-OmniMind is one environment in which these capabilities are intended to converge around a continuing research question. It does not own them or make itself their exclusive gateway; the underlying capabilities are intended to remain reusable by other agents and research platforms through open, explicit interfaces.
+**REPRODUCIBLE — Treat evaluation as part of the research.** We value documented methods, transparent benchmarks, failure analysis, and validation in real settings.
 
-**OPEN — Capabilities are not locked to one agent.** They may be coordinated through OmniMind or reused by other agents and research platforms.
+**RESEARCHER LED — Scientists retain final judgment.** Research direction, interpretation, validation, and release remain human responsibilities.
 
-**VERIFIABLE — Evidence travels with the work.** Sources, versions, permissions, environments, limitations, and failures should remain inspectable.
-
-**RESEARCHER LED — Scientists retain the final judgment.** Direction, interpretation, validation, and release remain human responsibilities.
-
-**Evaluation and reproducibility apply across the system:** benchmarks, provenance, failure analysis, recovery, reproducible environments, and validation in real research settings.
+Unless a repository states otherwise, public work in this organization should be understood as research-stage rather than production, clinical, legal, or regulatory validation.
 
 ## Leadership & collaboration
 
 **[Zaoqu Liu (刘灶渠)](https://github.com/Zaoqu-Liu)** — Lead
 
-We welcome research collaborations around scientific data and methods, evidence systems, agent architecture, scientific communication, evaluation and reproducibility, biomedical research, and cross-disciplinary transfer.
+We welcome research collaborations around scientific evidence, reliable AI-assisted research, scientific communication, evaluation and reproducibility, biomedical research, and cross-disciplinary transfer.
 
 **Contact:** [liuzaoqu@163.com](mailto:liuzaoqu@163.com)
-
-Public projects enter πAI Lab only when they have a clear scientific purpose, accountable maintainers, reproducible entry points, explicit licensing, documented evidence boundaries, and a credible maintenance path.
 
 [`Governance`](../GOVERNANCE.md) · [`Project policy`](../PROJECT_POLICY.md) · [`Contributing`](../CONTRIBUTING.md) · [`Security`](../SECURITY.md) · [`Support`](../SUPPORT.md)
 
@@ -78,20 +50,18 @@ Public projects enter πAI Lab only when they have a clear scientific purpose, a
 <details>
 <summary><strong>中文摘要</strong></summary>
 
-### πAI Lab · 面向科学发现的开放智能基础设施
+### πAI Lab · 面向科学发现的开放研究
 
-πAI Lab 是设在广东智慧医学国际研究院的公共研究与开放技术计划。我们从真实生物医学研究出发，计划建设可以跨模型、跨 Agent、跨课题持续复用的开放科学能力，而不是一个封闭的端到端科研智能体。
+πAI Lab 是设在广东智慧医学国际研究院的公共研究与开放技术计划。我们关注人工智能如何支持科学发现，当前主要从真实生物医学研究出发，在开放协作中开展工作，并在真实研究场景中检验其价值。
 
-- **数据与方法：** OmniData、OmniEngine
-- **证据与科研动态：** OmniScholar、OmniPatent、AI4SNews
-- **持续科研与可靠执行：** OmniMind、OmniHarness
-- **可编辑科研产物：** OmniPlotter、OmniSketch、OmniSlide、OmniOffice
-- **科学问题形成：** OmniSage
-- **领域研究：** 药物发现
+- **科学证据：** 让文献、专利、数据、方法与研究主张更容易被追溯、检验和复用。
+- **可靠科研流程：** 重视 AI 辅助研究中的溯源、评测、可复现性、失败分析与人的监督。
+- **科研表达：** 让研究图表、插图和文档保持清晰、可编辑、可核验，不让表达与证据脱节。
+- **生物医学研究：** 把方法放到真实、复杂的医学与生命科学问题中检验。
 
-这些方向各自承担独立的科学任务，目标是通过开放接口彼此组合。OmniMind 是它们可以汇聚的一种持续科研工作环境，但不是其他能力的所有者或唯一入口。评测、溯源、失败分析与可复现性贯穿所有方向；科学家始终负责研究方向、证据判断、实验验证和最终结论。
+我们坚持开放研究、证据优先、可复现以及研究者主导。来源、版本、假设、局限与失败应当可以被检查；研究方向、证据判断、实验验证与最终发布仍由科学家负责。
 
-以上方向均处于建设中。列入本页不代表已经公开发布、达到生产状态、获得规模采用，或通过科学、临床、法律与监管验证。
+除非具体仓库另有说明，本组织公开的工作应视为研究阶段成果，不代表已达到生产、临床、法律或监管验证状态。
 
 科研合作：[liuzaoqu@163.com](mailto:liuzaoqu@163.com)
 

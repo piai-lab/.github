@@ -28,7 +28,7 @@ Organization projects may contribute to one or more roles:
 - domain programs and reusable capability packs;
 - benchmarks, validation, reproducibility, and governance artifacts.
 
-These roles describe scientific responsibility, not a product hierarchy. Projects may remain independently useful while participating in larger workflows, including workflows coordinated through OmniMind.
+These roles describe scientific responsibility, not a product hierarchy. Projects may remain independently useful while participating in larger cross-project workflows.
 
 ## Interoperability and evidence
 
@@ -62,7 +62,7 @@ Before transfer, maintainers must review package names, container registries, do
 
 Repository names should be stable, pronounceable, and specific enough to avoid misleading scope. Names must not imply clinical, regulatory, institutional, or scientific validation that the project has not earned.
 
-The `Omni` prefix describes participation in a shared scientific-capability system; it does not by itself imply public availability, maturity, integration, endorsement, or flagship status.
+Shared naming or participation in a larger workflow does not by itself imply public availability, maturity, integration, endorsement, or flagship status.
 
 ## Deprecation and archival
 
