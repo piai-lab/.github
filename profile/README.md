@@ -14,7 +14,7 @@
 
 ## Our position
 
-πAI Lab is a public research and open-technology initiative based at 广东智慧医学国际研究院 in Guangzhou. We study how AI can support scientific discovery, with an initial focus on biomedical research. Our work is developed in the open and evaluated in real research settings.
+πAI Lab is a public research and open-technology initiative based at the International Academy of Phronesis Medicine (Guangdong) in Guangzhou. We study how AI can support scientific discovery, with an initial focus on biomedical research. Our work is developed in the open and evaluated in real research settings.
 
 ## Research focus
 
